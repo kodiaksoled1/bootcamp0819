@@ -1,2 +1,3 @@
 We are going to explore Mars. 
-We are texting the rockets for flight. 
+We are testing the rockets for flight.
+We are  on our own now. 
